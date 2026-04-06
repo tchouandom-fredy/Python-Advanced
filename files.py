@@ -23,7 +23,10 @@ print(fileInput.write("The content has been updated"))
 fileInput = open(path2, 'a')
 text = fileInput.write(" Programming is fun")
 print(text)
-
 fileInput.close()
+
+
+
+
 
 
